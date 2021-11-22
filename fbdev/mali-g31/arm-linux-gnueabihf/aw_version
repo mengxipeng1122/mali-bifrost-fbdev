@@ -1,0 +1,19 @@
+Source commit information:
+mali-g31: Add tempita to build OpenCL
+
+Source branch information:
+sunxi-platform-q
+
+
+MD5 Information:
+e5409d8ac48c6be23bdb14912f72e464  lib/libEGL.so.1.4.0
+684ebdb445ee830f8ec574489f84e244  lib/libGLESv1_CM.so.1.1.0
+a9e97dc26e86b110f379f5652023445c  lib/libGLESv2.so.2.1.0
+adbc232433f52be6ede7ab7717694045  lib/libmali.so.0.20.0
+f4965ef40f9e06b5c28c845c5be2ca4a  lib/libOpenCL.so.2.1.0
+87824c1cfdf7dba3c7bd98e8b896bb3d  bin/mali_cl_simple_example
+53fb9559032444ada69258468a08c2ae  bin/mali_egl_integration_tests
+f0067bbfe495ffc5184b57247386bbf3  bin/mali_gles_integration_suite
+
+Toolchain information:
+arm-linux-gnueabihf-7.3.1
